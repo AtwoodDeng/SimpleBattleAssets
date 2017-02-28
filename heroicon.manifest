@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3335487778
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 48bb095f7835022587fd6aa82c0364bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4d24bf54f46935ed9e6cf78ac481bb9d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Img/Icon/ThiefIcon.png
+- Assets/Resources/Img/Icon/SoulIcon.png
+- Assets/Resources/Img/Icon/SoldierIcon.png
+- Assets/Resources/Img/Icon/MegaIcon.png
+- Assets/Resources/Img/Icon/ArrowIcon.png
+- Assets/Resources/Img/Icon/SwordIcon.png
+- Assets/Resources/Img/Icon/NijiTestIcon.png
+- Assets/Resources/Img/Icon/MegaTestIcon.png
+- Assets/Resources/Img/Icon/SwordTestIcon.png
+- Assets/Resources/Img/Icon/FireIcon.png
+Dependencies: []
